@@ -43,3 +43,4 @@
 
 纯文字接口：https://assassinxr.github.io/daily-news/news.txt
 图文接口：https://assassinxr.github.io/daily-news/news.png
+微信号：MonranLuck
