@@ -41,6 +41,4 @@
    摘要：受弱冷空气影响，广州云量增多、间中有弱降水，最高气温缓慢下降；相对湿度55%～85%，早晚偏凉，备薄外套，出门带伞。未来两天仍有零星小雨，5日起最高气温有望降至27～28℃。
    来源：广州市气象台
 
-纯文字接口：https://assassinxr.github.io/daily-news/news.txt
-图文接口：https://assassinxr.github.io/daily-news/news.png
 微信号：MonranLuck
